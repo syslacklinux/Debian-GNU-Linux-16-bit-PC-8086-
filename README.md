@@ -1,6 +1,6 @@
 <img width="75" height="92" alt="image" src="https://github.com/user-attachments/assets/2330e67f-d0fc-44cd-9c08-42a6cd629307" />
 
-# Debian-GNU-Linux-16-bit-PC-8086-
+# Debian GNU/Linux 16-bit PC 8086
 This Is Debian GNU/Linux on 16-bit Machines based on ELKS
 
 Installation
