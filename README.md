@@ -40,4 +40,4 @@ Install to HDD
     Reboot with HDD as primary boot device.
 
 
-Login as root then vi /etc/issue Then Change ELKS 0.9.2 To Debian GNU/Linux then esc then :wq
+Login as root then vi /etc/issue Then Change ELKS Version (Example 0.9.2) To Debian GNU/Linux then esc then :wq
